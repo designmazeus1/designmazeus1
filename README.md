@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmazeus1&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmazeus1&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmazeus1&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmazeus1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmazeus1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
