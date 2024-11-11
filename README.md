@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,bootstrap,dart,django,docker,electron,flutter,kubernetes,mongodb,linux,nodejs,react)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=designmazeus1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmazeus1&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmazeus1&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
